@@ -1,0 +1,32 @@
+[{
+    "nombre" : "Breaking Bad",
+    "anio" : 2008,
+    "genero" : "Drama",
+    "temporadas" : 5,
+    "calificacion" : 4.9 
+},
+{
+    "nombre" : "Juego de tronos",
+    "anio" : 2011,
+    "genero" : "Drama",
+    "temporadas" : 8,
+    "calificacion" : 4.7 
+
+},
+{
+    "nombre" : "Seinfeld",
+    "anio" : 1989,
+    "genero" : "Comedia",
+    "temporadas" : 9,
+    "calificacion" : 4.8
+
+},
+{
+    "nombre" : "Los Simpsons",
+    "anio" : 1989,
+    "genero" : "Comedia",
+    "temporadas" : 35,
+    "calificacion" : 4.6
+
+}
+]
